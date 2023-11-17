@@ -1,1 +1,1 @@
-# 3VariantZhenin
+# Первое задание Java
